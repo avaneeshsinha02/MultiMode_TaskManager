@@ -1,0 +1,14 @@
+<resources>
+    <style name="AppTheme.Light" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/maroon_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="android:windowBackground">@color/light_background</item>
+        <item name="android:textColor">@color/light_text</item>
+        <item name="materialCardViewStyle">@style/Widget.App.CardView.Light</item>
+    </style>
+
+    <style name="Widget.App.CardView.Light" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardBackgroundColor">@color/light_card</item>
+    </style>
+</resources>

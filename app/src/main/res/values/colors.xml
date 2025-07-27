@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="maroon_primary">#800000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <color name="light_background">#F5F5F5</color>
+    <color name="light_text">#1C1C1E</color>
+    <color name="light_card">#FFFFFF</color>
+
+    <color name="dark_background">#121212</color>
+    <color name="dark_text">#E1E1E1</color>
+    <color name="dark_card">#1E1E1E</color>
+
+    <color name="priority_high">#D32F2F</color>
+    <color name="priority_medium">#FFC107</color>
+    <color name="priority_low">#4CAF50</color>
+</resources>

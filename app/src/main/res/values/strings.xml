@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MultiMode Task Manager</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="dont_have_account">Don\'t have an account? Sign Up</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="logout">Logout</string>
+    <string name="auth_failed">Authentication Failed</string>
+    <string name="auth_success">Login Successful</string>
+    <string name="signup_success">Signup Successful</string>
+    <string name="fields_cannot_be_empty">Email and password cannot be empty</string>
+
+    <string name="no_tasks_found">No tasks yet. Tap + to add one!</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="task_title">Task Title</string>
+    <string name="priority">Priority</string>
+    <string name="due_date">Due Date</string>
+    <string name="due_time">Due Time</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="sort">Sort</string>
+    <string name="sort_by_priority">By Priority</string>
+    <string name="sort_by_due_date">By Due Date</string>
+    <string name="sort_by_name">By Name</string>
+    <string name="toggle_theme">Toggle Theme</string>
+    <string name="context_edit">Edit</string>
+    <string name="context_delete">Delete</string>
+    <string name="context_mark_done">Mark as Done</string>
+
+    <string name="task_added_successfully">Task added successfully</string>
+    <string name="task_updated_successfully">Task updated successfully</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="task_marked_done">Task completed</string>
+    <string name="invalid_datetime">Cannot set task in the past</string>
+    <string name="title_cannot_be_empty">Title cannot be empty</string>
+
+    <string-array name="priority_levels">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+</resources>
