@@ -1,4 +1,5 @@
 # MultiMode Task Manager Application
+<img width="360" height="729" alt="Screenshot 2025-07-26 at 4 50 56 PM" src="https://github.com/user-attachments/assets/97eb9513-9ebe-4ba7-9d3a-600422fb9022" />
 <img width="356" height="729" alt="Screenshot 2025-07-26 at 4 50 42 PM" src="https://github.com/user-attachments/assets/d78fae5e-85f9-4fa5-b7dc-ad41b943a64a" />
 <img width="360" height="726" alt="Screenshot 2025-07-26 at 4 51 29 PM" src="https://github.com/user-attachments/assets/d9a8709a-bc27-43e3-9fb9-5876b22cd16a" />
 <img width="361" height="728" alt="Screenshot 2025-07-26 at 4 51 38 PM" src="https://github.com/user-attachments/assets/d041e20e-a339-4e71-b032-70da3f667210" />
